@@ -18,6 +18,9 @@ Google Pixel 6 Pro で動作確認済みですが、Pixel 6でも動作すると
 
 ## 更新履歴
 
+#### v5
+* Android 13 に対応
+
 #### v4
 * SystemUI の Overlay を機能毎に分割  
   (ナビバーの余白をなくしたければ optional フォルダの apk を system/product/overlay に入れてください)
