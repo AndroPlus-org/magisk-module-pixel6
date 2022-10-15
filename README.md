@@ -1,6 +1,6 @@
-## Google Pixel 6 Pro 用パッチ
+## Google Pixel 向けパッチ
 
-Google Pixel 6 Pro にて
+Google Pixel (Android 12+) にて
 
 * カメラシャッター音の強制を無効化
 * USB ケーブル接続時に画面がオンにならないよう変更
@@ -14,7 +14,7 @@ Google Pixel 6 Pro にて
 をする Magisk モジュールです。  
 必要ないものがあれば overlay フォルダにある apk を削除するかデコンパイルして編集してください。
 
-Google Pixel 6 Pro で動作確認済みですが、Pixel 6でも動作すると思います。
+Google Pixel 6 Pro で動作確認済みです。Pixel 7シリーズでも動作すると思います。
 
 ## 更新履歴
 
